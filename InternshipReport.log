@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.31)  6 JAN 2016 14:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.31)  6 JAN 2016 15:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1620,17 +1620,17 @@ Appendix A.
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
 
 1: section
 [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
  (./InternshipReport.aux (./Chapters/Chapter1.aux)
 (./Appendices/AppendixA.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
 Package rerunfilecheck Info: File `InternshipReport.out' has not changed.
-(rerunfilecheck)             Checksum: 0E138637C9B4E99D426EB8FC87FE8376;4607.
+(rerunfilecheck)             Checksum: CAA8EC21E69ADB8DDE1C392005A503AB;4533.
 
 
 LaTeX Warning: There were undefined references.
@@ -1663,10 +1663,10 @@ r/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/palatino/uplri8a.pfb>
-Output written on InternshipReport.pdf (31 pages, 206819 bytes).
+Output written on InternshipReport.pdf (31 pages, 206653 bytes).
 PDF statistics:
- 450 PDF objects out of 1000 (max. 8388607)
- 393 compressed objects within 4 object streams
+ 451 PDF objects out of 1000 (max. 8388607)
+ 394 compressed objects within 4 object streams
  70 named destinations out of 1000 (max. 500000)
  238 words of extra memory for PDF output out of 10000 (max. 10000000)
 
