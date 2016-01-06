@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.31)  6 JAN 2016 13:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.31)  6 JAN 2016 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1556,6 +1556,12 @@ Overfull \hbox (25.01874pt too wide) in paragraph at lines 184--185
 sl/10.95 doublespacing\T1/ppl/m/n/10.95 . 
  []
 
+
+LaTeX Warning: Citation 'Reference2' on page 6 undefined on input line 194.
+
+
+LaTeX Warning: Citation 'Reference3' on page 6 undefined on input line 194.
+
 [6]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 196.
@@ -1579,7 +1585,7 @@ Overfull \hbox (13.1396pt too wide) in paragraph at lines 257--257
  
  []
 
-<Figures/Electron.pdf, id=316, 398.3386pt x 284.52756pt>
+<Figures/Electron.pdf, id=299, 398.3386pt x 284.52756pt>
 File: Figures/Electron.pdf Graphic file (type pdf)
 
 <use Figures/Electron.pdf>
@@ -1614,111 +1620,53 @@ Appendix A.
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
 
 1: section
 [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
  (./InternshipReport.aux (./Chapters/Chapter1.aux)
 (./Appendices/AppendixA.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 244.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
+Package rerunfilecheck Info: File `InternshipReport.out' has not changed.
+(rerunfilecheck)             Checksum: 0E138637C9B4E99D426EB8FC87FE8376;4607.
 
 
-Package rerunfilecheck Warning: File `InternshipReport.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: Checksums for `InternshipReport.out':
-(rerunfilecheck)             Before: 9098CA0452B0B3B8D1561CBBC7C19F5C;4618
-(rerunfilecheck)             After:  0E138637C9B4E99D426EB8FC87FE8376;4607.
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                InternshipReport
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'InternshipReport.run.xml'.
 \openout1 = `InternshipReport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28523 strings out of 494985
- 584224 string characters out of 6180355
- 692487 words of memory out of 5000000
- 31283 multiletter control sequences out of 15000+600000
+ 28494 strings out of 494985
+ 583863 string characters out of 6180355
+ 692493 words of memory out of 5000000
+ 31275 multiletter control sequences out of 15000+600000
  59860 words of font info for 111 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  56i,20n,77p,10414b,1891s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{table.caption.31} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.33} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{appendix*.39} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{appendix.38} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.37} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.36} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.34} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.29} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.27} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.26} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.24} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.23} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.21} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.20} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.19} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.15} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.12} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.11} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.10} has been referenced but does not exist,
- replaced by a fixed one
-
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
-courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8
-a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/urw/palatino/uplri8a.pfb>
-Output written on InternshipReport.pdf (31 pages, 207562 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucr
+r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/urw/palatino/uplri8a.pfb>
+Output written on InternshipReport.pdf (31 pages, 206819 bytes).
 PDF statistics:
- 483 PDF objects out of 1000 (max. 8388607)
- 425 compressed objects within 5 object streams
- 91 named destinations out of 1000 (max. 500000)
+ 450 PDF objects out of 1000 (max. 8388607)
+ 393 compressed objects within 4 object streams
+ 70 named destinations out of 1000 (max. 500000)
  238 words of extra memory for PDF output out of 10000 (max. 10000000)
 
