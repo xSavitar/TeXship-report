@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.31)  3 JAN 2016 22:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.31)  6 JAN 2016 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1471,7 +1471,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 183.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 185.
  (./InternshipReport.toc
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 19.
 
@@ -1628,15 +1628,15 @@ Appendix A.
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 273.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 275.
 
 1: section
 [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 273.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 275.
  (./InternshipReport.aux (./Chapters/Chapter1.aux)
 (./Appendices/AppendixA.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 273.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 273.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 275.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 275.
 Package rerunfilecheck Info: File `InternshipReport.out' has not changed.
 (rerunfilecheck)             Checksum: EA6768D2220DD192CC640213E964C217;4618.
 Package logreq Info: Writing requests to 'InternshipReport.run.xml'.
@@ -1663,7 +1663,7 @@ er/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 palatino/uplri8a.pfb>
-Output written on InternshipReport.pdf (37 pages, 216559 bytes).
+Output written on InternshipReport.pdf (37 pages, 217474 bytes).
 PDF statistics:
  499 PDF objects out of 1000 (max. 8388607)
  434 compressed objects within 5 object streams
