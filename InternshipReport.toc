@@ -5,7 +5,7 @@
 \contentsline {chapter}{Abstract}{vii}{section*.2}
 \contentsline {chapter}{Acknowledgements}{ix}{section*.3}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.8}
-\contentsline {section}{\numberline {1.1}What is Njorku}{1}{section.9}
+\contentsline {section}{\numberline {1.1}What is Njorku?}{1}{section.9}
 \contentsline {section}{\numberline {1.2}Learning \textlatin {\LaTeX }{}}{1}{section.10}
 \contentsline {subsection}{\numberline {1.2.1}A (not so short) Introduction to \textlatin {\LaTeX }{}}{1}{subsection.11}
 \contentsline {subsection}{\numberline {1.2.2}A Short Math Guide for \textlatin {\LaTeX }{}}{2}{subsection.12}
