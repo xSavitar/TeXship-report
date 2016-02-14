@@ -3,6 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: InternshipReport.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: Chapters/Chapter1.aux
+A level-1 auxiliary file: Chapters/Chapter2.aux
 A level-1 auxiliary file: Appendices/AppendixA.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -17,50 +18,47 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: InternshipReport-blx.bib
 Database file #2: references.bib
-Warning--I didn't find a database entry for "Reference2"
-Warning--I didn't find a database entry for "Reference3"
 Biblatex version: 2.8
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 2 entries,
+You've used 1 entry,
             6047 wiz_defined-function locations,
-            1145 strings with 8766 characters,
-and the built_in function-call counts, 4173 in all, are:
-= -- 157
-> -- 147
-< -- 29
-+ -- 60
-- -- 52
-* -- 241
-:= -- 454
+            1132 strings with 8181 characters,
+and the built_in function-call counts, 1306 in all, are:
+= -- 64
+> -- 58
+< -- 1
++ -- 41
+- -- 24
+* -- 23
+:= -- 295
 add.period$ -- 0
-call.type$ -- 2
-change.case$ -- 11
-chr.to.int$ -- 40
-cite$ -- 2
-duplicate$ -- 352
-empty$ -- 429
-format.name$ -- 48
-if$ -- 935
+call.type$ -- 1
+change.case$ -- 0
+chr.to.int$ -- 34
+cite$ -- 0
+duplicate$ -- 12
+empty$ -- 92
+format.name$ -- 0
+if$ -- 289
 int.to.chr$ -- 0
-int.to.str$ -- 2
+int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 49
-num.names$ -- 41
-pop$ -- 353
+newline$ -- 22
+num.names$ -- 0
+pop$ -- 44
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 0
 quote$ -- 0
-skip$ -- 237
+skip$ -- 74
 stack$ -- 0
-substring$ -- 158
-swap$ -- 133
-text.length$ -- 42
-text.prefix$ -- 1
+substring$ -- 117
+swap$ -- 1
+text.length$ -- 16
+text.prefix$ -- 0
 top$ -- 1
-type$ -- 64
+type$ -- 26
 warning$ -- 0
-while$ -- 74
+while$ -- 50
 width$ -- 0
-write$ -- 46
-(There were 2 warnings)
+write$ -- 20

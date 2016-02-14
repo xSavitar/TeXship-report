@@ -6,27 +6,17 @@
 \contentsline {chapter}{Acknowledgements}{ix}{section*.3}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.8}
 \contentsline {section}{\numberline {1.1}What is Njorku?}{1}{section.9}
-\contentsline {section}{\numberline {1.2}Learning \textlatin {\LaTeX }{}}{1}{section.10}
-\contentsline {subsection}{\numberline {1.2.1}A (not so short) Introduction to \textlatin {\LaTeX }{}}{1}{subsection.11}
-\contentsline {subsection}{\numberline {1.2.2}A Short Math Guide for \textlatin {\LaTeX }{}}{2}{subsection.12}
-\contentsline {subsection}{\numberline {1.2.3}Common \textlatin {\LaTeX }{} Math Symbols}{2}{subsection.13}
-\contentsline {subsection}{\numberline {1.2.4}\textlatin {\LaTeX }{} on a Mac}{2}{subsection.14}
-\contentsline {section}{\numberline {1.3}Getting Started with this Template}{2}{section.15}
-\contentsline {subsection}{\numberline {1.3.1}About this Template}{3}{subsection.16}
-\contentsline {section}{\numberline {1.4}What this Template Includes}{3}{section.17}
-\contentsline {subsection}{\numberline {1.4.1}Folders}{3}{subsection.18}
-\contentsline {subsection}{\numberline {1.4.2}Files}{3}{subsection.19}
-\contentsline {section}{\numberline {1.5}Filling in Your Information in the \texttt {\bfseries main.tex} File}{4}{section.20}
-\contentsline {section}{\numberline {1.6}The \texttt {main.tex} File Explained}{5}{section.21}
-\contentsline {section}{\numberline {1.7}Thesis Features and Conventions}{6}{section.22}
-\contentsline {subsection}{\numberline {1.7.1}Printing Format}{6}{subsection.23}
-\contentsline {subsection}{\numberline {1.7.2}Using US Letter Paper}{6}{subsection.24}
-\contentsline {subsection}{\numberline {1.7.3}References}{7}{subsection.25}
-\contentsline {subsubsection}{A Note on bibtex}{7}{section*.27}
-\contentsline {subsection}{\numberline {1.7.4}Tables}{7}{subsection.28}
-\contentsline {subsection}{\numberline {1.7.5}Figures}{8}{subsection.30}
-\contentsline {subsection}{\numberline {1.7.6}Typesetting mathematics}{9}{subsection.32}
-\contentsline {section}{\numberline {1.8}Sectioning and Subsectioning}{10}{section.34}
-\contentsline {section}{\numberline {1.9}In Closing}{10}{section.35}
-\contentsline {chapter}{\numberline {A}Appendix Title Here}{11}{appendix.36}
-\contentsline {chapter}{Bibliography}{13}{appendix*.37}
+\contentsline {section}{\numberline {1.2}History of Njorku}{1}{section.11}
+\contentsline {subsection}{\numberline {1.2.1}Njorku Ltd products}{1}{subsection.12}
+\contentsline {subsection}{\numberline {1.2.2}Njorku Search Engine(njorku.com)}{2}{subsection.13}
+\contentsline {subsection}{\numberline {1.2.3}Nukeboard(nukeboard.co)}{2}{subsection.14}
+\contentsline {section}{\numberline {1.3}What I did during the Internship period}{2}{section.15}
+\contentsline {subsection}{\numberline {1.3.1}Studied the Software's(nukeboard.co) codebase}{2}{subsection.16}
+\contentsline {subsection}{\numberline {1.3.2}Work I did on Nukeboard during internship}{2}{subsection.17}
+\contentsline {section}{\numberline {1.4}Why did I do the following task mentioned above?}{2}{section.18}
+\contentsline {subsection}{\numberline {1.4.1}Why Feature Development?}{2}{subsection.19}
+\contentsline {subsection}{\numberline {1.4.2}Why Quality Assurance(QA)?}{2}{subsection.20}
+\contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.21}
+\contentsline {section}{\numberline {2.1}Concepts and Technologies used by Nukeboard}{5}{section.22}
+\contentsline {section}{\numberline {2.2}Similarities with other system that exist}{6}{section.23}
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{7}{appendix.24}

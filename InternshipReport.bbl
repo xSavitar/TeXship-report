@@ -16,38 +16,6 @@
   {}
 \endgroup
 
-\entry{Reference1}{article}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Shihan}{S.}%
-     {M~N~Islam}{M.~N.~I.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{SMNI1}
-  \strng{fullhash}{SMNI1}
-  \field{labelyear}{2015}
-  \field{sortinit}{S}
-  \field{abstract}{%
-  We have developed an enhanced Littrow configuration extended cavity diode
-  laser (ECDL) that can be tuned without changing the direction of the output
-  beam. The output of a conventional Littrow ECDL is reflected from a plane
-  mirror fixed parallel to the tuning diffraction grating. Using a free-space
-  Michelson wavemeter to measure the laser wavelength, we can tune the laser
-  over a range greater than 10 nm without any alteration of alignment.%
-  }
-  \field{number}{26}
-  \field{pages}{1\bibrangedash 351}
-  \field{title}{Laravel 4.2.x Docs}
-  \verb{url}
-  \verb http://leanpub.com/laravel-4_2-docs
-  \endverb
-  \field{volume}{1}
-  \field{journaltitle}{Laravel Documentations}
-  \field{month}{02}
-  \field{year}{2015}
-\endentry
-
 \lossort
 \endlossort
 
