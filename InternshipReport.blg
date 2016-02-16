@@ -4,7 +4,7 @@ The top-level auxiliary file: InternshipReport.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: Chapters/Chapter1.aux
 A level-1 auxiliary file: Chapters/Chapter2.aux
-A level-1 auxiliary file: Appendices/AppendixA.aux
+A level-1 auxiliary file: Chapters/Chapter3.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -23,7 +23,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 You've used 1 entry,
             6047 wiz_defined-function locations,
-            1132 strings with 8181 characters,
+            1132 strings with 8178 characters,
 and the built_in function-call counts, 1306 in all, are:
 = -- 64
 > -- 58
