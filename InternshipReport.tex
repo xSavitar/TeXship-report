@@ -29,9 +29,11 @@ headsepline, % Uncomment to get a line under the header
 
 \usepackage[backend=bibtex,style=authoryear,natbib=true]{biblatex} % User the bibtex backend with the authoryear citation style (which resembles APA)
 
-\addbibresource{references.bib} % The filename of the bibliography
+\bibliography{references.bib}
 
 \usepackage[autostyle=true]{csquotes} % Required to generate language-dependent quotes in the bibliography
+
+\usepackage{listings} % For listing source codes in latex
 
 %----------------------------------------------------------------------------------------
 %	MARGIN SETTINGS
@@ -44,6 +46,8 @@ headsepline, % Uncomment to get a line under the header
 	bindingoffset=2cm, % Binding offset
 	top=1.5cm, % Top margin
 	bottom=1.5cm, % Bottom margin
+	left=0.8cm,
+	right=3.1cm,
 	%showframe,% show how the type block is set on the page
 }
 
@@ -51,8 +55,8 @@ headsepline, % Uncomment to get a line under the header
 %	THESIS INFORMATION
 %----------------------------------------------------------------------------------------
 
-\thesistitle{Development of Modules/Features for Nukeboard.co} % Your thesis title, this is used in the title and abstract, print it elsewhere with \ttitle
-\supervisor{Dr. Nde \textsc{Nguti}} % Your supervisor's name, this is used in the title page, print it elsewhere with \supname
+\thesistitle{Implementation of Modules/Features for Nukeboard.co} % Your thesis title, this is used in the title and abstract, print it elsewhere with \ttitle
+\supervisor{} % Your supervisor's name, this is used in the title page, print it elsewhere with \supname
 \examiner{} % Your examiner's name, this is not currently used anywhere in the template, print it elsewhere with \examname
 \degree{Bachelor of Engineering } % Your degree name, this is used in the title page and abstract, print it elsewhere with \degreename
 \author{Alangi \textsc{Derick}} % Your name, this is used in the title page and abstract, print it elsewhere with \authorname
@@ -86,10 +90,7 @@ headsepline, % Uncomment to get a line under the header
 
 \HRule \\[0.4cm] % Horizontal line
 {\huge \bfseries \ttitle}\\[0.4cm] % Thesis title
-\HRule \\[1cm] % Horizontal line
-
-\textsc{\Large offered by \LARGE Njorku, Cameroon}\\[1.2cm] % Thesis type
- 
+\HRule \\[1cm] % Horizontal line 
 
 \begin{minipage}{0.4\textwidth}
 \begin{flushleft} \large
@@ -99,12 +100,12 @@ headsepline, % Uncomment to get a line under the header
 \end{minipage}
 \begin{minipage}{0.4\textwidth}
 \begin{flushright} \large
-\emph{Supervisor:} \\
-{Dr Nde Nguti or Any assigned supervisor} % Supervisor name - remove the \href bracket to remove the link  
+\emph{Internship Supervisors:} \\
+{Churchill Mambe Nanje and William Mukete} % Supervisor name - remove the \href bracket to remove the link  
 \end{flushright}
 \end{minipage}\\[1.8cm]
 
-\textsc{\Large performed at \LARGE Njorku, Cameroon Ltd}\\[2.0cm] % Thesis type
+\textsc{\Large performed at \LARGE Njorku Cameroon Ltd}\\[2.0cm] % Thesis type
  
 \large \textit{A report submitted in partial fulfillment of the requirements of \\ \degreename degree programme in Computer Engineering} \\[1.2cm] % University requirement text
 
@@ -150,7 +151,7 @@ headsepline, % Uncomment to get a line under the header
 
 \vspace*{0.2\textheight}
 
-\noindent\enquote{\itshape Thanks to my solid academic training, today I can write hundreds of words on virtually any topic without possessing a shared of information, which is how I got a good training and reputation in the my domain of studies and in the industrial world in and out of the country.}\bigbreak
+\noindent\enquote{\itshape Thanks to my solid academic training, today I can write hundreds of words on project topic without much problems faced, in which i have gained a good training and reputation in the my domain of studies and in the industrial world.}\bigbreak
 
 \hfill \authorname
 
@@ -161,9 +162,7 @@ headsepline, % Uncomment to get a line under the header
 \begin{abstract}
 \addchaptertocentry{\abstractname} % Add the abstract to the table of contents
 
-Nukeboard.co is an internet recruitement based solution which enables recruiters to easily post jobs, share job offers on social media, track and manage applications(job applications) across multiple devices while maintaining and growing a CV bank. Developing modules to this software was one of the key feature to the success of this application since it brought about ease in the manageability of activities to the end users. Various modules developed are; Employer Module, Job Seeker Module, Training Module, Sponsored Jobs Module and Blog module making a total of 5 modules. This brought about a great enhancement/improvement to the software making it easy for users to use this modules/features by just activating with the click of a button in one hand and in the other hand, if the user doesn't want to use a particular feature because of one reason or the other, he/she will just deactivate the module/feature with just a click and this feature will be invisible to the entire software.
-\\[0.1cm]
-Furthermore, these modules where developed in a very modular approach in such a way that if one doesn't need a particular module which has to be removed entirely from the whole software, it will be a very easy process and this won't break other existing modules already available in the application. So this means it will be like singly removing a module and not touching the exising modules, making it easy for integration of other modules in future and making development to the software easy to understand. The above mentioned modules will be explained in detail in the body of this report\ldots
+	Faculty of Engineering and Technology places level 500 students on internship for a period of 6 months, in which I was included and did my internship at Njorku Cameroon Ltd. This company offers internship to engineering interns to work on real live project(which some are highly the business of the company) and follows an incremental engineering problem solving approach. During my 5 months of internship in the company, We worked on implementing modules for one the company's project called "nukeboard.co" in which we used to offer services to the clients and the market. The projects design and most of the engineering phase where already done so we where just there to implement. Nukeboard.co is an internet recruitement based solution which enables recruiters to easily post jobs, share job offers on social media, track and manage applications(job applications) across multiple devices while maintaining and growing a CV bank. Developing modules to this software was one of the key feature to the success of this application since it brought about ease in the manageability of activities to the end users. Various modules developed are; Employer Module, Job Seeker Module, Training Module, Sponsored Jobs Module and Blog module making a total of 5 modules(as at now). These modules where developed in a very modular approach in such a way that if one doesn't need a particular module which has to be removed entirely from the whole software, it will be a very easy process and this won't break other existing modules already available in the application. So this means it will be like singly removing a module and not touching the exising modules, making it easy for integration of other modules in future and making development to the software easy to understand. The above mentioned modules will be explained in detail in the body of this report.
 
 \end{abstract}
 
@@ -210,6 +209,7 @@ Furthermore I would also like to acknowledge with much appreciation the crucial 
 \textbf{S}aa\textbf{S} & \textbf{S}oftware as a \textbf{S}ervice\\
 \textbf{SQL} & \textbf{S}tructured \textbf{Q}query \textbf{L}anguage\\
 \textbf{SMTP} & \textbf{S}imple \textbf{M}ail \textbf{T}ransfer \textbf{P}rotocol\\
+\textbf{URL} & \textbf{U}niform \textbf{R}esource \textbf{L}ocator\\
 
 \end{abbreviations}
 
@@ -233,19 +233,44 @@ Furthermore I would also like to acknowledge with much appreciation the crucial 
 \include{Chapters/Chapter1}
 \include{Chapters/Chapter2} 
 \include{Chapters/Chapter3}
-%\include{Chapters/Chapter4} 
-%\include{Chapters/Chapter5}
+\include{Chapters/Chapter4} 
+\include{Chapters/Chapter5}
 
 
 %---------------------------------------------------------------------------------
 % BIBLOGRAPHY
 %---------------------------------------------------------------------------------
 
-\printbibliography[heading=bibintoc]
+\nocite{*}
+
+\printbibliography
 
 % Other links for references
-%\hspace*{-0.7cm}Sample Text: \url{http://www.something.com}
+\hspace*{-0.7cm}[1] Visited on: 1st Sept, 2015, \url{http://daanlenaerts.com/blog/2015/07/05/create- \\						subdomain-with-apache2-on-ubuntu-server/}, Subdomain Creation in Ubuntu Apache Server \\
+
+\hspace*{-0.7cm}[2] Visisted On: 14th Oct, 2015, \url{https://laravel.com/docs/4.2}, \\
+					Laravel 4.2 Documenations\\
+
+\hspace*{-0.7cm}[3] Visited On: 1st Sept, 2015, \url{https://support.rackspace.com/how-to/set-up-apache- \\
+					virtual-hosts-on-ubuntu/}, Configuration of Apache Virtual host on Ubuntu\\
+
+\hspace*{-0.7cm}[4] Visited on: 10th Sept, 2015\url{https://tika.apache.org/0.5/documentation.html}, \\
+					Apache Tika Documentation.\\
+
+\hspace*{-0.7cm}[5] Visited on: 17th Dec, 2015, \url{http://www.softwareqatest.com/}\\
+					Quality Assurance Docs.\\
+
+\hspace*{-0.7cm}[6] QA test results: \url{https://docs.google.com/spreadsheets/d/1tGCM8aJPhJMd72sqRn \\ nYN6l4yl7kqiBg1iyK86zPlqk/edit#gid=0}\\
+
+\hspace*{-0.7cm}[7] Visited On: 12th Dec, 2015, \url{https://www.campaignmonitor.com/email-templates/}, \\
+					HTML email templates.\\
+					
+\hspace*{-0.7cm}[8] Visited On: 2nd Nov, 2015, \url{http://stackoverflow.com/questions/277 \\ 
+					42097/jquery-autocomplete-with-laravel-4-not-working}, \\
+					Auto-complete jQuery using Database Values.\\
 
 %----------------------------------------------------------------------------------------
+
+\hspace*{-0.7cm} \textbf{\addcontentsline{toc}{section}{Bibliography}}
 
 \end{document}  

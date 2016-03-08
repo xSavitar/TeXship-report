@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.31)  16 FEB 2016 00:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.12.31)  29 FEB 2016 23:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1181,6 +1181,42 @@ File: csquotes.cfg
 )
 Package csquotes Info: Enabling multilingual quotes.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count356
+\lst@gtempboxa=\box52
+\lst@token=\toks22
+\lst@length=\count357
+\lst@currlwidth=\dimen185
+\lst@column=\count358
+\lst@pos=\count359
+\lst@lostspace=\dimen186
+\lst@width=\dimen187
+\lst@newlines=\count360
+\lst@lineno=\count361
+\lst@maxwidth=\dimen188
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count362
+\lst@skipnumbers=\count363
+\lst@framebox=\box53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package scrhack Info: loading listings hack on input line 37.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/listings.hak
+File: listings.hak 2013/12/19 v3.12 KOMA-Script package (hacking package listin
+gs)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2013/12/19 v3.12 KOMA-Scriptpackage(handling toc-files)
+)
+Package tocbasic Info: setting babel extension for `lol' on input line 137.
+Package scrhack Info: redefining \lstlistoflistings on input line 137.
+)
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1191,26 +1227,33 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 
 (./InternshipReport.aux (./Chapters/Chapter1.aux) (./Chapters/Chapter2.aux)
-(./Chapters/Chapter3.aux))
+(./Chapters/Chapter3.aux
+
+LaTeX Warning: Label `fig:Modules' multiply defined.
+
+
+LaTeX Warning: Label `fig:Modules' multiply defined.
+
+) (./Chapters/Chapter4.aux) (./Chapters/Chapter5.aux))
 \openout1 = `InternshipReport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1299,17 +1342,17 @@ fg
 File: siunitx-abbreviations.cfg 2013/07/31 v2.5s siunitx: Abbreviated units
 ) (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count356
-\scratchdimen=\dimen185
-\scratchbox=\box52
-\nofMPsegments=\count357
-\nofMParguments=\count358
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count359
-\MPscratchDim=\dimen186
-\MPnumerator=\count360
-\makeMPintoPDFobject=\count361
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count364
+\scratchdimen=\dimen189
+\scratchbox=\box54
+\nofMPsegments=\count365
+\nofMParguments=\count366
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count367
+\MPscratchDim=\dimen190
+\MPnumerator=\count368
+\makeMPintoPDFobject=\count369
+\everyMPtoPDFconversion=\toks24
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1327,6 +1370,7 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
@@ -1338,14 +1382,14 @@ Package caption Info: End \AtBeginDocument code.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * bindingoffset: 56.9055pt
 * modes: includehead includefoot twoside 
-* h-part:(L,W,R)=(71.13188pt, 361.34995pt, 108.12054pt)
+* h-part:(L,W,R)=(22.76228pt, 429.63638pt, 88.2037pt)
 * v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=361.34995pt
+* \textwidth=429.63638pt
 * \textheight=693.49821pt
-* \oddsidemargin=55.7674pt
-* \evensidemargin=35.85056pt
+* \oddsidemargin=7.3978pt
+* \evensidemargin=15.93372pt
 * \topmargin=-29.59087pt
 * \headheight=18.85364pt
 * \headsep=19.8738pt
@@ -1365,13 +1409,13 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 71.
-Package scrbase Info: activating english \authorshipname on input line 71.
-Package scrbase Info: activating english \byname on input line 71.
-Package scrbase Info: activating english \abbrevname on input line 71.
-Package scrbase Info: activating english \constantsname on input line 71.
-Package scrbase Info: activating english \symbolsname on input line 71.
-Package scrbase Info: activating english \acknowledgementname on input line 71.
+(scrlayer)             \begin{document} on input line 75.
+Package scrbase Info: activating english \authorshipname on input line 75.
+Package scrbase Info: activating english \byname on input line 75.
+Package scrbase Info: activating english \abbrevname on input line 75.
+Package scrbase Info: activating english \constantsname on input line 75.
+Package scrbase Info: activating english \symbolsname on input line 75.
+Package scrbase Info: activating english \acknowledgementname on input line 75.
 
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -1385,9 +1429,9 @@ Package biblatex Warning: Data encoding is 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'InternshipReport.bbl' found.
 (./InternshipReport.bbl)
-Package biblatex Info: Reference section=0 on input line 71.
-Package biblatex Info: Reference segment=0 on input line 71.
-\AtBeginShipoutBox=\box53
+Package biblatex Info: Reference section=0 on input line 75.
+Package biblatex Info: Reference segment=0 on input line 75.
+\AtBeginShipoutBox=\box55
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -1398,7 +1442,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-Package hyperref Info: Link coloring ON on input line 71.
+Package hyperref Info: Link coloring ON on input line 75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1406,28 +1450,30 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count362
+\c@section@level=\count370
 )
-LaTeX Info: Redefining \ref on input line 71.
-LaTeX Info: Redefining \pageref on input line 71.
-LaTeX Info: Redefining \nameref on input line 71.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
 
 (./InternshipReport.out) (./InternshipReport.out)
 \@outlinefile=\write4
 \openout4 = `InternshipReport.out'.
 
-\c__siunitx_mathsf_int=\count363
+\c@lstlisting=\count371
+Package scrhack Info: undefining \float@addtolists on input line 75.
+\c__siunitx_mathsf_int=\count372
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 71.
+(Font)              <10.95> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 71.
+(Font)              <8> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 71.
-\c__siunitx_mathtt_int=\count364
+(Font)              <6> on input line 75.
+\c__siunitx_mathtt_int=\count373
 
 1: section
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 88.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 92.
 [1
 
 
@@ -1438,15 +1484,15 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 --------------------
  Declaration of Authorship
 --------------------
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 130.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 131.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
@@ -1460,7 +1506,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--136
  Abstract
 --------------------
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 161.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 162.
+
+Overfull \hbox (12.02594pt too wide) in paragraph at lines 165--166
+\T1/ppl/m/n/10.95 Ltd. This com-pany of-fers in-tern-ship to en-gi-neer-ing in-
+terns to work on real live project(which
+ []
+
 1: section
 [7] [8
 
@@ -1473,22 +1525,22 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 187.
- (./InternshipReport.toc)
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 186.
+ (./InternshipReport.toc
+1: section
+[11])
 \tf@toc=\write5
 \openout5 = `InternshipReport.toc'.
 
-
-1: section
-[11] [12
-
-] (./InternshipReport.lof)
+ [12] (./InternshipReport.lof)
 \tf@lof=\write6
 \openout6 = `InternshipReport.lof'.
 
 
 1: section
-[13] [14
+[13
+
+] [14
 
 ]
 1: section
@@ -1509,69 +1561,83 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 18.
-<Figures/NjorkuLogo.jpg, id=195, 338.26375pt x 150.5625pt>
+<Figures/NjorkuLogo.jpg, id=425, 338.26375pt x 150.5625pt>
 File: Figures/NjorkuLogo.jpg Graphic file (type jpg)
 
 <use Figures/NjorkuLogo.jpg>
 Package pdftex.def Info: Figures/NjorkuLogo.jpg used on input line 23.
 (pdftex.def)             Requested size: 338.26291pt x 150.56212pt.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 35.
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+<Figures/CompanyStructure.png, id=426, 887.315pt x 491.8375pt>
+File: Figures/CompanyStructure.png Graphic file (type png)
+
+<use Figures/CompanyStructure.png>
+Package pdftex.def Info: Figures/CompanyStructure.png used on input line 41.
+(pdftex.def)             Requested size: 1330.96925pt x 737.75443pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 1: section
 [1
 
 
- <./Figures/NjorkuLogo.jpg>]) [2] [3]
+ <./Figures/NjorkuLogo.jpg>]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 51.
+
+<Figures/NukeboardArchitecture.png, id=432, 762.85pt x 569.12625pt>
+File: Figures/NukeboardArchitecture.png Graphic file (type png)
+
+<use Figures/NukeboardArchitecture.png>
+Package pdftex.def Info: Figures/NukeboardArchitecture.png used on input line 6
+1.
+(pdftex.def)             Requested size: 1144.27222pt x 853.68729pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <./Figures/CompanyStructure.png>]) [3 <./Figures/NukeboardArchitecture.png>]
 \openout2 = `Chapters/Chapter2.aux'.
 
- (./Chapters/Chapter2.tex [4
+(./Chapters/Chapter2.tex [4
 
 
 
 ]
 Chapter 2.
 
-Overfull \hbox (4.80249pt too wide) in paragraph at lines 11--12
-\T1/ppl/m/n/10.95 ad-min-is-tra-tion, MVC pro-gram-ming paradigm and Ob-ject or
-i-ented pro-gram-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
 
-Overfull \hbox (0.74634pt too wide) in paragraph at lines 13--14
-[]\T1/ppl/m/n/10.95 Its a highly doc-u-mented frame-work and its doc-u-men-ta-t
-ion can be found
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
 
-Overfull \hbox (18.25043pt too wide) in paragraph at lines 17--18
-\T1/ppl/m/n/10.95 are; PHP, HTML, CSS, CDN, Apache Tika, Lar-avel 4.2, MVC, jQu
-ery, JavaScript,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
+Underfull \hbox (badness 10000) in paragraph at lines 18--32
 
  []
 
 1: section
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
@@ -1580,46 +1646,412 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  (./Chapters/Chapter3.tex
 Chapter 3.
-)
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 13.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--23
+
+ []
+
+<Figures/Modules.png, id=453, 852.18375pt x 499.8675pt>
+File: Figures/Modules.png Graphic file (type png)
+
+<use Figures/Modules.png>
+Package pdftex.def Info: Figures/Modules.png used on input line 26.
+(pdftex.def)             Requested size: 1278.27248pt x 749.79941pt.
+
 1: section
 [7
 
 
 
+ <./Figures/Modules.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--94
+
+ []
+
+<Figures/EmployerWizard.png, id=477, 1290.8225pt x 684.5575pt>
+File: Figures/EmployerWizard.png Graphic file (type png)
+
+<use Figures/EmployerWizard.png>
+Package pdftex.def Info: Figures/EmployerWizard.png used on input line 107.
+(pdftex.def)             Requested size: 1936.22902pt x 1026.83372pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (1.07175pt too wide) in paragraph at lines 113--116
+[]\T1/ppl/m/n/10.95 Two sets of in-for-ma-tion are col-lected from the em-ploye
+r and saved in the nuke-baord.co
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+[10] <Figures/EmployerWizardComplete.png, id=482, 602.25pt x 454.69875pt>
+File: Figures/EmployerWizardComplete.png Graphic file (type png)
+
+<use Figures/EmployerWizardComplete.png>
+Package pdftex.def Info: Figures/EmployerWizardComplete.png used on input line 
+123.
+(pdftex.def)             Requested size: 263.80536pt x 199.17303pt.
+ [11 <./Figures/EmployerWizard.png> <./Figures/EmployerWizardComplete.png>]
+<Figures/JobSeekerWizard.png, id=487, 1287.81125pt x 659.46375pt>
+File: Figures/JobSeekerWizard.png Graphic file (type png)
+
+<use Figures/JobSeekerWizard.png>
+Package pdftex.def Info: Figures/JobSeekerWizard.png used on input line 138.
+(pdftex.def)             Requested size: 1931.71217pt x 989.19319pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+[12 <./Figures/JobSeekerWizard.png>]
+<Figures/ThemeEmployerModule.png, id=492, 1276.77pt x 651.43375pt>
+File: Figures/ThemeEmployerModule.png Graphic file (type png)
+
+<use Figures/ThemeEmployerModule.png>
+Package pdftex.def Info: Figures/ThemeEmployerModule.png used on input line 156
+.
+(pdftex.def)             Requested size: 1915.15033pt x 977.14821pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+
+ []
+
+[13 <./Figures/ThemeEmployerModule.png>]
+<Figures/cvGeneralSearch.png, id=498, 1285.80376pt x 679.53876pt>
+File: Figures/cvGeneralSearch.png Graphic file (type png)
+
+<use Figures/cvGeneralSearch.png>
+Package pdftex.def Info: Figures/cvGeneralSearch.png used on input line 178.
+(pdftex.def)             Requested size: 1928.70094pt x 1019.30566pt.
+
+<Figures/SpecificCVSearch.png, id=499, 1284.8pt x 617.30624pt>
+File: Figures/SpecificCVSearch.png Graphic file (type png)
+
+<use Figures/SpecificCVSearch.png>
+Package pdftex.def Info: Figures/SpecificCVSearch.png used on input line 192.
+(pdftex.def)             Requested size: 1927.19531pt x 925.95709pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+[14 <./Figures/cvGeneralSearch.png>]
+<Figures/SponsoredJobFE.png, id=504, 1212.53pt x 676.5275pt>
+File: Figures/SponsoredJobFE.png Graphic file (type png)
+
+<use Figures/SponsoredJobFE.png>
+Package pdftex.def Info: Figures/SponsoredJobFE.png used on input line 208.
+(pdftex.def)             Requested size: 1818.79057pt x 1014.78874pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+[15 <./Figures/SpecificCVSearch.png> <./Figures/SponsoredJobFE.png>]
+<Figures/HTMLEmail.png, id=509, 659.46375pt x 571.13374pt>
+File: Figures/HTMLEmail.png Graphic file (type png)
+
+<use Figures/HTMLEmail.png>
+Package pdftex.def Info: Figures/HTMLEmail.png used on input line 230.
+(pdftex.def)             Requested size: 989.19319pt x 856.69853pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+[16 <./Figures/HTMLEmail.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+
+Underfull \hbox (badness 2903) in paragraph at lines 252--252
+[]|\T1/ppl/m/n/10.95 Number of Test
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+
+ []
+
+) [17]
+\openout2 = `Chapters/Chapter4.aux'.
+
+ (./Chapters/Chapter4.tex [18
+
+
+
 ]
+Chapter 4.
 
-LaTeX Warning: Empty bibliography on input line 244.
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
-(./InternshipReport.aux (./Chapters/Chapter1.aux) (./Chapters/Chapter2.aux)
-(./Chapters/Chapter3.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+<Figures/GitHubProject.png, id=522, 1115.16624pt x 646.415pt>
+File: Figures/GitHubProject.png Graphic file (type png)
+
+<use Figures/GitHubProject.png>
+Package pdftex.def Info: Figures/GitHubProject.png used on input line 29.
+(pdftex.def)             Requested size: 1672.74529pt x 969.62013pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+1: section
+[19]) [20 <./Figures/GitHubProject.png>]
+\openout2 = `Chapters/Chapter5.aux'.
+
+ (./Chapters/Chapter5.tex
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+1: section
+[21
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+[22])
+Underfull \hbox (badness 10000) in paragraph at lines 57--237
+
+ []
+
+[23] [24
+
+
+]
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 246.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Overfull \hbox (20.92473pt too wide) in paragraph at lines 249--250
+[]| \T1/ppl/m/n/10.95 [1] Vis-ited on: 1st Sept, 2015, [][]$\T1/pcr/m/n/10.95 h
+ttp : / / daanlenaerts . com / blog / 2015 / 07 / 05 / create-[] \
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--253
+
+ []
+
+
+Overfull \hbox (51.33275pt too wide) in paragraph at lines 254--256
+[]| \T1/ppl/m/n/10.95 [3] Vis-ited On: 1st Sept, 2015, [][]$\T1/pcr/m/n/10.95 h
+ttps : / / support . rackspace . com / how-[]to / set-[]up-[]apache-[] \
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+
+ []
+
+
+Overfull \hbox (12.27788pt too wide) in paragraph at lines 257--259
+[]| \T1/ppl/m/n/10.95 [4] Vis-ited on: 10th Sept, 2015[][]$\T1/pcr/m/n/10.95 ht
+tps : / / tika . apache . org / 0 . 5 / documentation . html$[][]\T1/ppl/m/n/10
+.95 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--259
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--262
+
+ []
+
+
+Overfull \hbox (46.05807pt too wide) in paragraph at lines 263--264
+[]| \T1/ppl/m/n/10.95 [6] QA test re-sults: [][]$\T1/pcr/m/n/10.95 https : / / 
+docs . google . com / spreadsheets / d / 1tGCM8aJPhJMd72sqRn \
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+
+Overfull \hbox (30.9332pt too wide) in paragraph at lines 265--267
+[]| \T1/ppl/m/n/10.95 [7] Vis-ited On: 12th Dec, 2015, [][]$\T1/pcr/m/n/10.95 h
+ttps : / / www . campaignmonitor . com / email-[]templates/$[][]\T1/ppl/m/n/10.
+95 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--267
+
+ []
+
+
+Overfull \hbox (7.09882pt too wide) in paragraph at lines 268--271
+[]| \T1/ppl/m/n/10.95 [8] Vis-ited On: 2nd Nov, 2015, [][]$\T1/pcr/m/n/10.95 ht
+tp : / / stackoverflow . com / questions / 277 \ 42097 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--271
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
+1: section
+[25]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
+ (./InternshipReport.aux (./Chapters/Chapter1.aux) (./Chapters/Chapter2.aux) (.
+/Chapters/Chapter3.aux) (./Chapters/Chapter4.aux) (./Chapters/Chapter5.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
 Package rerunfilecheck Info: File `InternshipReport.out' has not changed.
-(rerunfilecheck)             Checksum: EB44492DDBCFC90137017CA478744DE5;4025.
+(rerunfilecheck)             Checksum: BF20A7D7AB9B5980C29899753EA03E51;13293.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package logreq Info: Writing requests to 'InternshipReport.run.xml'.
 \openout1 = `InternshipReport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28264 strings out of 494985
- 580447 string characters out of 6180355
- 689474 words of memory out of 5000000
- 31081 multiletter control sequences out of 15000+600000
- 44026 words of font info for 71 fonts, out of 8000000 for 9000
+ 30367 strings out of 494985
+ 610548 string characters out of 6180355
+ 718143 words of memory out of 5000000
+ 33053 multiletter control sequences out of 15000+600000
+ 46243 words of font info for 75 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 52i,19n,76p,10414b,1711s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,20n,83p,10414b,2237s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/p
-alatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr
-i8a.pfb>
-Output written on InternshipReport.pdf (25 pages, 110348 bytes).
+f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/pa
+latino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr
+8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on InternshipReport.pdf (43 pages, 655621 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
- 224 compressed objects within 3 object streams
- 51 named destinations out of 1000 (max. 500000)
- 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 626 PDF objects out of 1000 (max. 8388607)
+ 555 compressed objects within 6 object streams
+ 131 named destinations out of 1000 (max. 500000)
+ 554 words of extra memory for PDF output out of 10000 (max. 10000000)
 

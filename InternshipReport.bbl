@@ -16,6 +16,30 @@
   {}
 \endgroup
 
+\entry{Reference1}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Shihan}{S.}%
+     {M~N~Islam}{M.~N.~I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SMNI1}
+  \strng{fullhash}{SMNI1}
+  \field{labelyear}{2015}
+  \field{sortinit}{S}
+  \field{number}{26}
+  \field{pages}{1\bibrangedash 351}
+  \field{title}{Laravel 4.2.x Docs}
+  \verb{url}
+  \verb http://leanpub.com/laravel-4_2-docs
+  \endverb
+  \field{volume}{1}
+  \field{journaltitle}{Laravel Documentations}
+  \field{month}{02}
+  \field{year}{2015}
+\endentry
+
 \lossort
 \endlossort
 

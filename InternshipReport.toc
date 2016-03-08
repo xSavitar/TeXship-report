@@ -7,17 +7,58 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.8}
 \contentsline {section}{\numberline {1.1}What is Njorku?}{1}{section.9}
 \contentsline {section}{\numberline {1.2}History of Njorku}{1}{section.11}
-\contentsline {subsection}{\numberline {1.2.1}Njorku Ltd products}{1}{subsection.12}
-\contentsline {subsection}{\numberline {1.2.2}Njorku Search Engine(njorku.com)}{2}{subsection.13}
-\contentsline {subsection}{\numberline {1.2.3}Nukeboard(nukeboard.co)}{2}{subsection.14}
-\contentsline {section}{\numberline {1.3}What I did during the Internship period}{2}{section.15}
-\contentsline {subsection}{\numberline {1.3.1}Studied the Software's(nukeboard.co) codebase}{2}{subsection.16}
-\contentsline {subsection}{\numberline {1.3.2}Work I did on Nukeboard during internship}{2}{subsection.17}
-\contentsline {section}{\numberline {1.4}Why did I do the following task mentioned above?}{2}{section.18}
-\contentsline {subsection}{\numberline {1.4.1}Why Feature Development?}{2}{subsection.19}
-\contentsline {subsection}{\numberline {1.4.2}Why Quality Assurance(QA)?}{2}{subsection.20}
-\contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.21}
-\contentsline {section}{\numberline {2.1}Concepts and Technologies used by Nukeboard}{5}{section.22}
-\contentsline {section}{\numberline {2.2}Similarities with other system that exist}{6}{section.23}
-\contentsline {chapter}{\numberline {3}Improvements on the Existing System}{7}{chapter.24}
-\contentsline {section}{\numberline {3.1}Developing Modules for Nukeboard}{7}{section.25}
+\contentsline {section}{\numberline {1.3}Company Structure of Njorku Ltd Cameroon}{1}{section.12}
+\contentsline {section}{\numberline {1.4}Njorku Ltd products}{2}{section.14}
+\contentsline {subsection}{\numberline {1.4.1}Njorku Search Engine(njorku.com)}{2}{subsection.15}
+\contentsline {subsection}{\numberline {1.4.2}Nukeboard(nukeboard.co)}{2}{subsection.16}
+\contentsline {section}{\numberline {1.5}What I did during the Internship period}{2}{section.18}
+\contentsline {subsection}{\numberline {1.5.1}Studied the Software's(nukeboard.co) codebase}{2}{subsection.19}
+\contentsline {subsection}{\numberline {1.5.2}Work I did on Nukeboard during internship}{2}{subsection.20}
+\contentsline {section}{\numberline {1.6}Why did I do the following task mentioned above?}{3}{section.21}
+\contentsline {subsection}{\numberline {1.6.1}Why Feature Development?}{3}{subsection.22}
+\contentsline {subsection}{\numberline {1.6.2}Why Quality Assurance(QA)?}{3}{subsection.23}
+\contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.24}
+\contentsline {section}{\numberline {2.1}Concepts and Technologies used by Nukeboard}{5}{section.25}
+\contentsline {section}{\numberline {2.2}Similarities with other system that exist}{6}{section.26}
+\contentsline {chapter}{\numberline {3}Improvements on the Existing System}{7}{chapter.27}
+\contentsline {section}{\numberline {3.1}Developing Modules for Nukeboard}{7}{section.28}
+\contentsline {subsection}{\numberline {3.1.1}What is a Module?}{7}{subsection.29}
+\contentsline {subsection}{\numberline {3.1.2}Modules for Nukeboard.co}{7}{subsection.30}
+\contentsline {subsubsection}{Job Seeker Module}{8}{section*.32}
+\contentsline {subsubsection}{Employer Module}{8}{section*.33}
+\contentsline {subsubsection}{Blog Module}{8}{section*.34}
+\contentsline {subsubsection}{Training Module}{9}{section*.35}
+\contentsline {subsubsection}{Sponsored Jobs Module}{9}{section*.36}
+\contentsline {section}{\numberline {3.2}Tasks I completed during my Internship period}{9}{section.37}
+\contentsline {subsection}{\numberline {3.2.1}Implemenation of EmployerSessionController.php Class}{9}{subsection.38}
+\contentsline {subsection}{\numberline {3.2.2}Implemenation of Permission in nukeboard core}{10}{subsection.48}
+\contentsline {subsection}{\numberline {3.2.3}Built Registration Wizard for Employer and Job Seeker Module}{10}{subsection.49}
+\contentsline {subsubsection}{Registration Wizard for Employer Module}{10}{section*.50}
+\contentsline {subsubsection}{Registration Wizard for Job Seeker Module}{12}{section*.53}
+\contentsline {subsection}{\numberline {3.2.4}Changes and Migration of Employer and Job Seeker Themes}{12}{subsection.55}
+\contentsline {subsection}{\numberline {3.2.5}Implentation of CV Search on Nukeboard(nukeboard.co)}{13}{subsection.57}
+\contentsline {subsubsection}{General CV Search Approach}{13}{section*.58}
+\contentsline {subsubsection}{Specific CV Search Approach}{14}{section*.60}
+\contentsline {subsection}{\numberline {3.2.6}Implentation of Sponsored Jobs Module Front-end(FE)}{15}{subsection.62}
+\contentsline {subsection}{\numberline {3.2.7}HTML Email support for Nukeboard(nukeboard.co)}{16}{subsection.64}
+\contentsline {subsection}{\numberline {3.2.8}Testing/Quality Assurance(QA) on Nukeboard(nukeboard.co)}{16}{subsection.66}
+\contentsline {subsubsection}{Statistics of the QA}{17}{section*.67}
+\contentsline {subsubsection}{Explanation of text results}{17}{section*.68}
+\contentsline {chapter}{\numberline {4}Discussion and Results Obtained}{19}{chapter.69}
+\contentsline {section}{\numberline {4.1}Discussion and Results Obtained}{19}{section.70}
+\contentsline {subsection}{\numberline {4.1.1}Discussions}{19}{subsection.71}
+\contentsline {subsubsection}{Hours spent at work everyday}{19}{section*.72}
+\contentsline {subsubsection}{How was work carried out each day?}{19}{section*.73}
+\contentsline {subsubsection}{Submission of task to be Intergrated to the main project}{19}{section*.74}
+\contentsline {subsubsection}{General discussion about entire work done}{19}{section*.76}
+\contentsline {subsection}{\numberline {4.1.2}Results Obtained}{20}{subsection.77}
+\contentsline {subsubsection}{Quality Assurance for Nukeboard}{20}{section*.78}
+\contentsline {chapter}{\numberline {5}Conclusion and Recommendations}{21}{chapter.79}
+\contentsline {section}{\numberline {5.1}Evaluation of Internship Experience}{21}{section.80}
+\contentsline {subsection}{\numberline {5.1.1}Self Evaluation}{21}{subsection.81}
+\contentsline {subsection}{\numberline {5.1.2}Company Evaluation}{21}{subsection.82}
+\contentsline {section}{\numberline {5.2}General Conclusion}{21}{section.83}
+\contentsline {section}{\numberline {5.3}Recommendations}{22}{section.84}
+\contentsline {section}{\numberline {5.4}Furture Works on the project}{22}{section.85}
+\contentsline {section}{\numberline {5.5}Other projects and work done during internship}{22}{section.86}
+\contentsline {section}{Bibliography}{25}{chapter*.87}
